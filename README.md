@@ -144,3 +144,7 @@ python api.py
   ]
 }
 ```
+
+## License
+
+The code is available under the [MIT License](https://github.com/Ahmetaksungur/Image-Recognition-API-Python/blob/main/LICENSE).
