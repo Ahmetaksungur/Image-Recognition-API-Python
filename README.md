@@ -6,6 +6,11 @@ Files you need to upload to the home path after downloading the home folder
 https://github.com/OlafenwaMoses/ImageAI/releases/download/essentials-v5/resnet50_imagenet_tf.2.0.h5
 https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
  
+## Run
+
+```
+python api.py
+```
  
 #### /api [POST]
 ```json
